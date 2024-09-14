@@ -15,7 +15,8 @@ function App() {
       </Title>
       <Base>
       <CreateTask/>
-        <Task/>
+      
+        {/* <Task/> */}
       </Base>
     </div>
   )

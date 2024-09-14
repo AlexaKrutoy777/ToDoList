@@ -11,8 +11,8 @@ export function Title() {
       }
       
       function getWeekMonth(date:Date) {
-        const months = ['December', 'January','February','March','April','May','June','July','August','September','October','November'];
-
+        const months = ['January','February','March','April','May','June','July','August','September','October','November', 'December'];
+        
         return months[date.getMonth()];
       }
 
