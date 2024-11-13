@@ -12,6 +12,10 @@ export const tasks: ITask[] = [
     {
         id: 3,
         title: 'WTF',
+    },
+    {
+        id: 4,
+        title: 'WTF',
     }
 
 ]
