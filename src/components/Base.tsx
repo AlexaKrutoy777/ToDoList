@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import { Task } from "./Task";
+import React from "react";
 
 interface BaseProps {
     children: React.ReactNode

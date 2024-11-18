@@ -1,5 +1,3 @@
-import React from "react";
-
 export function Title() {
     const timeElapsed = Date.now();
     const today = new Date(timeElapsed);
